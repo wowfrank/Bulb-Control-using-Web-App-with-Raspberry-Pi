@@ -7,5 +7,7 @@ In this project we are going to light the bulb from remote location using web se
 Hardware Used:
 
 •	Raspberry pi 3
+
 •	Relay Module
+
 •	12 led Bulbs 
